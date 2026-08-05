@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Shihab Uddin
 
-<!--
-**shihab001-pt/shihab001-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Aspiring MERN Stack Full-Stack Web Developer
+### 🔐 Learning Cyber Security & Penetration Testing
+### 🐍 Python Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning HTML, CSS, JavaScript & Python
+- 💻 Building real-world projects
+- 🔐 Interested in Cyber Security & Penetration Testing
+- 🎯 Goal: Become a Full-Stack Developer & Cyber Security Professional
+
+---
+
+## 🛠️ Skills
+
+Web Development:
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind Css3
+- React.js
+- Node.js.
+- Mongo DB
+- Cyber security
+- penetration Tester
+- Python (Learning)
+- Git & GitHub
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/shihab001-pt
+
+⭐ Thanks for visiting my profile!
